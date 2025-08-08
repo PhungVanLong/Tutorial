@@ -1,0 +1,14 @@
+D:\C#\helloword\bin\Debug\net9.0\helloword.exe
+D:\C#\helloword\bin\Debug\net9.0\helloword.deps.json
+D:\C#\helloword\bin\Debug\net9.0\helloword.runtimeconfig.json
+D:\C#\helloword\bin\Debug\net9.0\helloword.dll
+D:\C#\helloword\bin\Debug\net9.0\helloword.pdb
+D:\C#\helloword\obj\Debug\net9.0\helloword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\helloword\obj\Debug\net9.0\helloword.AssemblyInfoInputs.cache
+D:\C#\helloword\obj\Debug\net9.0\helloword.AssemblyInfo.cs
+D:\C#\helloword\obj\Debug\net9.0\helloword.csproj.CoreCompileInputs.cache
+D:\C#\helloword\obj\Debug\net9.0\helloword.dll
+D:\C#\helloword\obj\Debug\net9.0\refint\helloword.dll
+D:\C#\helloword\obj\Debug\net9.0\helloword.pdb
+D:\C#\helloword\obj\Debug\net9.0\helloword.genruntimeconfig.cache
+D:\C#\helloword\obj\Debug\net9.0\ref\helloword.dll
